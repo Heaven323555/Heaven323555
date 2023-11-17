@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @charlie9095
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning full stack development
+- 👋 Hi, I’m @sudharsanan
+- 👀 full stack developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sudrs007@gmail.com
 
